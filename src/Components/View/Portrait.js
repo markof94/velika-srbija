@@ -5,6 +5,7 @@ const Container = styled.div`
     position: relative;
     width: 120px;
     height: 150px;
+    pointer-events: auto;
 
     background-image: url(${props => props.src});
     background-size: cover;

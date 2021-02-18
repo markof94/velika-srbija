@@ -5,18 +5,20 @@ import data from '../Data/serbia.json'
 import { withStyles, makeStyles } from '@material-ui/core/styles';
 
 const Container = styled.div`
-    width: calc(100% - 50px);
+    width: 100%;
     height: 10vh;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-    
+
+    padding: 0 24px;
+    pointer-events: auto;
 `;
 
 const PrettoSlider = withStyles({
     root: {
-      color: '#52af77',
+      color: 'rgba(255, 0, 0, 0.5)',
       height: 8,
     },
     thumb: {

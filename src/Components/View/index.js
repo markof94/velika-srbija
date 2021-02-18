@@ -4,11 +4,12 @@ import data from '../../Data/serbia.json'
 import Portrait from './Portrait'
 import Info from './Info'
 
+
 const Container = styled.div`
     width: 100vmin;
     padding: 0 24px;
     display: flex;
-    
+    pointer-events: none;
 `;
 
 const Component = (props) => {
@@ -43,6 +44,8 @@ const Component = (props) => {
                 year={props.year}
                 setModalSrc={props.setModalSrc}
             />
+            
+            
         </Container>
     )
 }

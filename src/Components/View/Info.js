@@ -4,9 +4,11 @@ import Portrait from './Portrait'
 import LegendState from './LegendState'
 
 const Container = styled.div`
-  
-    width: 100%;
+    
+    bottom: 0;
+    width: 100vmin;
     color: #FFFFFF;
+   
 `;
 
 const Legend = styled.div`
@@ -128,6 +130,7 @@ const Component = (props) => {
                     </SubSection>
                 </Section>
             </Bottom>
+
         </Container>
     )
 }

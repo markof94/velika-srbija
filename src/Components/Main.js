@@ -2,23 +2,26 @@ import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 import Slider from './Slider'
 import View from './View'
-import DarkGradient from './DarkGradient'
 import Modal from './Modal'
+import Canvas from './Canvas'
 
 const Container = styled.div`
+    position: relative;
     width: 100%;
     max-width: 100vmin;
     height: 100vh;
-    padding-bottom: 24px;
     margin: 0 auto;
     
     display: flex;
     align-items: flex-end;
-    
-    background-image: url(https://www.freeworldmaps.net/europe/balkan-peninsula/balkan-peninsula-outline-map.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
+`;
+
+const Wrapper = styled.div`
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.75);
+    pointer-events: none;
+    padding-top: 24px;
+    background: linear-gradient(0, rgba(0, 0, 0, 0.8) 10%, rgba(0, 0, 0, 0.5) 75%, rgba(0, 0, 0, 0) 100%);
 `;
 
 const Main = () => {
@@ -32,7 +35,12 @@ const Main = () => {
 
     return (
         <Container>
-            <div style={{ zIndex: `1` }}>
+
+            <Canvas
+                year={year}
+            />
+
+            <Wrapper>
                 <View
                     year={year}
                     setModalSrc={setModalSrc}
@@ -41,9 +49,7 @@ const Main = () => {
                 <Slider
                     setYear={(y) => setYear(y)}
                 />
-            </div>
-
-            <DarkGradient />
+            </Wrapper>
 
             {modalSrc !== "" &&
                 <Modal
