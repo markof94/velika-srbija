@@ -22,24 +22,25 @@ const Container = styled.div`
 const Wrapper = styled.div`
     position: absolute;
     bottom: 0;
-    left: 0;
+    left: 50%;
     width: 100%;
+    max-width: 100vmin;
     height: 75%;
     animation: slide-in-bottom 0.5s 0.25s ease both;
     background: black;
     border-radius: 30px 30px 0 0;
-    
 
     ${props => props.isClosing && `
         animation: slide-out-bottom 0.25s ease both;
     `}
+
+    transform: translateX(-50%);
 `;
 
 const Modal = styled.iframe`
     width: 100%;
     height: 100%;
     position: absolute;
-    left: 0;
     top: 0;
     border-radius: 30px 30px 0 0;
     border: 0;

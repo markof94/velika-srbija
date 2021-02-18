@@ -500,5 +500,839 @@
                 "name": "Srbija"
             }
         ]
+    },
+    {
+        "startYear": 1243,
+        "title": "Kralj",
+        "name": "Stefan Uroš I",
+        "image": "https://i.ibb.co/ggX9P3c/King-Stefan-Uro-I-with-his-son-Stefan-Dragutin.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_I",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1276,
+        "title": "Kralj",
+        "name": "Stefan Dragutin",
+        "image": "https://i.ibb.co/hyvxmk3/Fresco-of-Stefan-Dragutin-Arilje.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%80%D0%B0%D0%B3%D1%83%D1%82%D0%B8%D0%BD",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1282,
+        "title": "Kralj",
+        "name": "Stefan Milutin",
+        "image": "https://i.ibb.co/7YDhvd3/Milutinst.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9C%D0%B8%D0%BB%D1%83%D1%82%D0%B8%D0%BD",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1321,
+        "title": "Kralj",
+        "name": "Stefan Konstantin",
+        "image": "https://i.ibb.co/Pj8SgrN/Konstantin-Gracanica-loza-lik.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1322,
+        "title": "Kralj",
+        "name": "Stefan Dečanski",
+        "image": "https://i.ibb.co/hmcwzzL/Stefan-Decanski-ktitor.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_III",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1331,
+        "title": "Kralj",
+        "name": "Stefan Dušan",
+        "image": "https://i.ibb.co/3rbWHKw/Car-Du-an-Manastir-Lesnovo-XIV-vek-Makedonija.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%83%D1%88%D0%B0%D0%BD",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1346,
+        "title": "Car",
+        "name": "Stefan Dušan",
+        "image": "https://i.ibb.co/3rbWHKw/Car-Du-an-Manastir-Lesnovo-XIV-vek-Makedonija.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%83%D1%88%D0%B0%D0%BD",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1355,
+        "title": "Car",
+        "name": "Stefan Uroš V",
+        "image": "https://i.ibb.co/qFscXhs/UrosV.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_V",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1371,
+        "title": "Knez",
+        "name": "Lazar Hrebeljanović",
+        "image": "https://i.ibb.co/2Ync8Gt/Knez-Lazar-Vladislav-Titelbah.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%A5%D1%80%D0%B5%D0%B1%D0%B5%D1%99%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1389,
+        "title": "Knez",
+        "name": "Stefan Lazarević",
+        "image": "https://i.ibb.co/KLHw424/Despot-Stefan-Lazarevic-480x716.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1402,
+        "title": "Despot",
+        "name": "Stefan Lazarević",
+        "image": "https://i.ibb.co/KLHw424/Despot-Stefan-Lazarevic-480x716.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1427,
+        "title": "Despot",
+        "name": "Đurađ Branković",
+        "image": "https://i.ibb.co/LrsW8HP/91bb0527e2ec113e523092b983a38c81.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%82%D1%83%D1%80%D0%B0%D1%92_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1456,
+        "title": "Despot",
+        "name": "Lazar Branković",
+        "image": "https://i.ibb.co/1K6RyBn/Lazar-Brankovi-Esphigmenou-charter-1429.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1458,
+        "title": "Despot",
+        "name": "Stefan Branković",
+        "image": "https://i.ibb.co/SQwLY4r/Stefan-Brankovi-Esphigmenou-charter-1429.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1459,
+        "title": "",
+        "name": "",
+        "image": "",
+        "flag": "",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B5_%D1%83_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83",
+        "states": []
+    },
+    {
+        "startYear": 1815,
+        "title": "Vožd",
+        "name": "Đorđe Petrović",
+        "image": "https://i.ibb.co/2Mtwx43/800px-Kara-or-e-Petrovi-by-Vladimir-Borovikovsky-1816.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1817,
+        "title": "Knez",
+        "name": "Miloš Obrenović",
+        "image": "https://i.ibb.co/hXb6DBx/Milos-Obrenovic-1848.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1839,
+        "title": "Knez",
+        "name": "Mihailo Obrenović",
+        "image": "https://i.ibb.co/D45KznC/Mihailo-Obrenovi-III.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1842,
+        "title": "Knez",
+        "name": "Aleksandar Karađorđević",
+        "image": "https://i.ibb.co/1M8LCkj/Knez-aleksandar-karadjordjevic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B_(%D0%BA%D0%BD%D0%B5%D0%B7)",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1858,
+        "title": "Knez",
+        "name": "Miloš Obrenović",
+        "image": "https://i.ibb.co/hXb6DBx/Milos-Obrenovic-1848.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1860,
+        "title": "Knez",
+        "name": "Mihailo Obrenović",
+        "image": "https://i.ibb.co/D45KznC/Mihailo-Obrenovi-III.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1868,
+        "title": "Knez",
+        "name": "Milan Obrenović",
+        "image": "https://i.ibb.co/VM3685J/Kralj-Milan-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF00FF",
+                "name": "Srbija (Otomansko carstvo)"
+            }
+        ]
+    },
+    {
+        "startYear": 1877,
+        "title": "Knez",
+        "name": "Milan Obrenović",
+        "image": "https://i.ibb.co/VM3685J/Kralj-Milan-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1882,
+        "title": "Kralj",
+        "name": "Milan Obrenović",
+        "image": "https://i.ibb.co/VM3685J/Kralj-Milan-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1889,
+        "title": "Kralj",
+        "name": "Aleksandar I Obrenović",
+        "image": "https://i.ibb.co/r3Vx7Z3/Aleksandar-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1903,
+        "title": "Kralj",
+        "name": "Petar I Karađorđević",
+        "image": "https://i.ibb.co/ZTTwKLn/Petar-I-Karadjordjevic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1915,
+        "title": "",
+        "name": "",
+        "image": "",
+        "flag": "",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0_%D1%83_%D0%9F%D1%80%D0%B2%D0%BE%D0%BC_%D1%81%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%BC_%D1%80%D0%B0%D1%82%D1%83",
+        "states": []
+    },
+    {
+        "startYear": 1918,
+        "title": "Kralj",
+        "name": "Petar I Karađorđević",
+        "image": "https://i.ibb.co/ZTTwKLn/Petar-I-Karadjordjevic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Kraljevina Srba, Hrvata i Slovenaca"
+            }
+        ]
+    },
+    {
+        "startYear": 1921,
+        "title": "Kralj",
+        "name": "Aleksandar I Karađorđević",
+        "image": "https://i.ibb.co/dJfdq2h/Kralj-aleksandar1.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Kraljevina Srba, Hrvata i Slovenaca"
+            }
+        ]
+    },
+    {
+        "startYear": 1934,
+        "title": "Kralj",
+        "name": "Petar II Karađorđević",
+        "image": "https://i.ibb.co/fds5KP9/Petar-II-Kara-or-evi.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Kraljevina Srba, Hrvata i Slovenaca"
+            }
+        ]
+    },
+    {
+        "startYear": 1941,
+        "title": "Kralj",
+        "name": "Petar II Karađorđević",
+        "image": "https://i.ibb.co/fds5KP9/Petar-II-Kara-or-evi.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#55FF11",
+                "name": "Srbija (Treći Rajh)"
+            }
+        ]
+    },
+    {
+        "startYear": 1944,
+        "title": "Kralj",
+        "name": "Petar II Karađorđević",
+        "image": "https://i.ibb.co/fds5KP9/Petar-II-Kara-or-evi.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1945,
+        "title": "Predsednik Predsedništva Ustavotvorne skupštine FNRJ",
+        "name": "Ivan Ribar",
+        "image": "https://i.ibb.co/8rmVKnG/633px-Ivan-Ribar-1.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A0%D0%B8%D0%B1%D0%B0%D1%80",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1953,
+        "title": "Predsednik",
+        "name": "Josip Broz Tito",
+        "image": "https://i.ibb.co/0h7JxMF/Josip-Broz-Tito-uniform-portrait.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D1%81%D0%B8%D0%BF_%D0%91%D1%80%D0%BE%D0%B7_%D0%A2%D0%B8%D1%82%D0%BE",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1953,
+        "title": "Predsednik",
+        "name": "Josip Broz Tito",
+        "image": "https://i.ibb.co/0h7JxMF/Josip-Broz-Tito-uniform-portrait.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D1%81%D0%B8%D0%BF_%D0%91%D1%80%D0%BE%D0%B7_%D0%A2%D0%B8%D1%82%D0%BE",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1980,
+        "title": "Predsednik",
+        "name": "Lazar Koliševski",
+        "image": "https://i.ibb.co/d4XnRSs/Lazar-Koli-evski-foto.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9A%D0%BE%D0%BB%D0%B8%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1981,
+        "title": "Predsednik",
+        "name": "Cvijetin Mijatović",
+        "image": "https://i.ibb.co/XZFHh8J/Mijatovic-Cvijetin.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B8%D1%98%D0%B5%D1%82%D0%B8%D0%BD_%D0%9C%D0%B8%D1%98%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1982,
+        "title": "Predsednik",
+        "name": "Sergej Krajger",
+        "image": "https://i.ibb.co/tJMMH4v/160px-sergej-kraigher-large-1.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%98_%D0%9A%D1%80%D0%B0%D1%98%D0%B3%D0%B5%D1%80",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1983,
+        "title": "Predsednik",
+        "name": "Petar Stambolić",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Petar_Stamboli%C4%87_1958.jpg/800px-Petar_Stamboli%C4%87_1958.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%BB%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1984,
+        "title": "Predsednik",
+        "name": "Mika Špiljak",
+        "image": "https://i.ibb.co/M82rVZG/Mika-piljak.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%B0_%D0%A8%D0%BF%D0%B8%D1%99%D0%B0%D0%BA",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1985,
+        "title": "Predsednik",
+        "name": "Veselin Đuranović",
+        "image": "https://i.ibb.co/pPcTm8w/Veselin-Djuranovic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%B8%D0%BD_%D0%82%D1%83%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1986,
+        "title": "Predsednik",
+        "name": "Radovan Vlajković",
+        "image": "https://i.ibb.co/vkGWVzV/Radovan-Vlajkovic.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D1%98%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1987,
+        "title": "Predsednik",
+        "name": "Sinan Hasani",
+        "image": "https://i.ibb.co/jwVgfhY/Sinan-Hasani.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B0%D0%BD_%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%B8",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1988,
+        "title": "Predsednik",
+        "name": "Lazar Mojsov",
+        "image": "https://i.ibb.co/XFBnqyw/Lazar-Mojsov.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9C%D0%BE%D1%98%D1%81%D0%BE%D0%B2",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1989,
+        "title": "Predsednik",
+        "name": "Raif Dizdarević",
+        "image": "https://i.ibb.co/rfmZxgb/800px-Raif-Dizdarevi-politi-ar.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B8%D1%84_%D0%94%D0%B8%D0%B7%D0%B4%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1990,
+        "title": "Predsednik",
+        "name": "Borisav Jović",
+        "image": "https://i.ibb.co/LvSwdbx/800px-Borisav-Jovi.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B0%D0%B2_%D0%88%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1991,
+        "title": "Predsednik",
+        "name": "Stjepan Mesić",
+        "image": "https://i.ibb.co/Pj0qHS0/Stjepan-Mesic-ehem-Prsident-der-Republik-Kroatien-Foto-http-www-stephan-roehl-de-Stephan-Rhl.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D1%98%D0%B5%D0%BF%D0%B0%D0%BD_%D0%9C%D0%B5%D1%81%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1992,
+        "title": "Predsednik",
+        "name": "Branko Kostić",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Branko_Kosti%C4%87.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE_%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 1993,
+        "title": "Predsednik",
+        "name": "Slobodan Milošević",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Branko_Kosti%C4%87.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%D0%BD_%D0%9C%D0%B8%D0%BB%D0%BE%D1%88%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 2000,
+        "title": "Predsednik",
+        "name": "Vojislav Koštunica",
+        "image": "https://i.ibb.co/S6C5yNN/Vojislav-Kostunica-EPP-Congress-Rome-2006-68-cropped.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%BE%D1%88%D1%82%D1%83%D0%BD%D0%B8%D1%86%D0%B0",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Jugoslavija"
+            }
+        ]
+    },
+    {
+        "startYear": 2004,
+        "title": "Predsednik",
+        "name": "Boris Tadić",
+        "image": "https://i.ibb.co/3k2ZBMZ/Boris-Tadic-2010-Cropped.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D0%B0%D0%B4%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            },
+            {
+                "color": "#AA0000",
+                "name": "Srbija i Crna Gora"
+            }
+        ]
+    },
+    {
+        "startYear": 2006,
+        "title": "Predsednik",
+        "name": "Boris Tadić",
+        "image": "https://i.ibb.co/3k2ZBMZ/Boris-Tadic-2010-Cropped.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D0%B0%D0%B4%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 2012,
+        "title": "Predsednik",
+        "name": "Tomislav Nikolić",
+        "image": "https://i.ibb.co/3k2ZBMZ/Boris-Tadic-2010-Cropped.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 2017,
+        "title": "Predsednik",
+        "name": "Aleksandar Vučić",
+        "image": "https://i.ibb.co/dfWb3ns/800px-Aleksandar-Vu-i-Secretary-Pompeo-Hosts-a-Working-Lunch-With-Serbian-President-Vucic-4858627954.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%92%D1%83%D1%87%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
     }
 ]
