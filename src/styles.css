@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Cuprum', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.input-range__slider {
+  -webkit-tap-highlight-color: transparent;
+  appearance: none;
+  background: #C6363C;
+  border: 1px solid #C6363C;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  height: 2rem;
+  width: 1rem; 
+  margin-left: -0.5rem;
+  margin-top: -1.5rem;
+  outline: none;
+  position: absolute;
+  top: 50%;
+  transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+}
+
+  .input-range__slider:focus {
+    box-shadow: 0 0 0 5px rgba(63, 81, 181, 0.2); }
+  .input-range--disabled .input-range__slider {
+    background: #cccccc;
+    border: 1px solid #cccccc;
+    box-shadow: none;
+    transform: none; }
+
+.input-range__slider-container {
+  transition: left 0.3s ease-out; 
+  -webkit-tap-highlight-color: transparent;
+}
+
+.input-range__label {
+  color: #FFFFFF;
+  font-size: 1rem;
+  transform: translateZ(0);
+  white-space: nowrap; 
+  -webkit-tap-highlight-color: transparent;
+}
+  
+
+.input-range__label--min,
+.input-range__label--max {
+  bottom: -1.4rem;
+  position: absolute; }
+
+.input-range__label--min {
+  left: 0; }
+
+.input-range__label--max {
+  right: 0; }
+
+.input-range__label--value {
+  position: absolute;
+  top: -2.7rem;
+ }
+
+.input-range__label-container {
+  left: -50%;
+  position: relative; }
+  .input-range__label--max .input-range__label-container {
+    left: 50%; }
+
+.input-range__track {
+  background: #FFFFFF;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  display: block;
+  height: 1rem;
+  position: relative;
+  transition: left 0.3s ease-out, width 0.3s ease-out; }
+  .input-range--disabled .input-range__track {
+    background: #FFFFFF; }
+
+.input-range__track--background {
+  left: 0;
+  margin-top: -0.15rem;
+  position: absolute;
+  right: 0;
+  top: 50%; }
+
+.input-range__track--active {
+  background: #C6363C; 
+  -webkit-tap-highlight-color: transparent;
+}
+  
+
+.input-range {
+  height: 2rem;
+  position: relative;
+  -webkit-tap-highlight-color: transparent;
+  width: 100%; }
+
+/*# sourceMappingURL=index.css.map */

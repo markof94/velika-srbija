@@ -1,0 +1,504 @@
+[
+    {
+        "startYear": 780,
+        "title": "Župan",
+        "name": "Višeslav",
+        "image": "https://i.ibb.co/8c0SBsH/Vi-eslav-Prince-of-the-Serbs.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/sr-el/%D0%92%D0%B8%D1%88%D0%B5%D1%81%D0%BB%D0%B0%D0%B2",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 839,
+        "title": "Župan",
+        "name": "Vlastimir",
+        "image": "https://i.ibb.co/B2mbXL9/Vlastimir-Prince-of-the-Serbs.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BC%D0%B8%D1%80",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 850,
+        "title": "Župan",
+        "name": "Mutimir",
+        "image": "https://i.ibb.co/PQq93w7/Mutimir-v2.png",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D1%83%D1%82%D0%B8%D0%BC%D0%B8%D1%80",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 891,
+        "title": "Župan",
+        "name": "Pribislav",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D1%83%D1%82%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 892,
+        "title": "Župan",
+        "name": "Petar",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%93%D0%BE%D1%98%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 917,
+        "title": "Župan",
+        "name": "Pavle",
+        "image": "https://i.ibb.co/mzxc654/Pavle-Prince-of-the-Serbs.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://en.wikipedia.org/wiki/Pavle_of_Serbia",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 921,
+        "title": "Župan",
+        "name": "Zaharija",
+        "image": "https://i.ibb.co/x3XzpMh/643px-Zupan-Zaharija.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/sr-el/%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%B8%D1%98%D0%B0_%D0%9F%D1%80%D0%B8%D0%B1%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 924,
+        "title": "",
+        "name": "",
+        "image": "",
+        "flag": "",
+        "wiki": "",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 927,
+        "title": "Župan",
+        "name": "Časlav",
+        "image": "https://i.ibb.co/qdzKpZY/FELJ1.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%BB%D0%BE%D0%BD%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 960,
+        "title": "Župan",
+        "name": "Čučimir",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A7%D1%83%D1%87%D0%B8%D0%BC%D0%B8%D1%80",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 971,
+        "title": "Župan",
+        "name": "Petar Dukljanski",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%94%D1%83%D0%BA%D1%99%D0%B0%D0%BD%D1%81%D0%BA%D0%B8",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 992,
+        "title": "Župan",
+        "name": "Jovan Vladimir",
+        "image": "https://i.ibb.co/kGwhx90/Jovan-Vladimir-Slika.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1000,
+        "title": "Župan",
+        "name": "Jovan Vladimir",
+        "image": "https://i.ibb.co/kGwhx90/Jovan-Vladimir-Slika.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80",
+        "states": [
+            {
+                "color": "#00BBFF",
+                "name": "Srbija (Bugarska)"
+            }
+        ]
+    },
+    {
+        "startYear": 1018,
+        "title": "Župan",
+        "name": "Stefan Vojislav",
+        "image": "https://i.ibb.co/WFy3BQR/image.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
+        "states": [
+            {
+                "color": "#00FF66",
+                "name": "Srbija (Vizantija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1034,
+        "title": "Župan",
+        "name": "Stefan Vojislav",
+        "image": "https://i.ibb.co/WFy3BQR/image.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
+        "states": [
+            {
+                "color": "#00FF66",
+                "name": "Srbija (Vizantija)"
+            },
+            {
+                "color": "#FF0000",
+                "name": "Duklja (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1043,
+        "title": "Župan",
+        "name": "Gojislav",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%93%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#00FF66",
+                "name": "Srbija (Vizantija)"
+            },
+            {
+                "color": "#FF0000",
+                "name": "Duklja (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1044,
+        "title": "Župan",
+        "name": "Gojislav",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%93%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Duklja (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1050,
+        "title": "Župan",
+        "name": "Mihajlo I",
+        "image": "https://i.ibb.co/6438fRY/800px-Copy-of-Ktetorial-Portrait-of-Serbian-King-Mihailo-Vojisavljevi-the-ruler-of-Dioclea-around-10.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Duklja (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1077,
+        "title": "Veliki Župan",
+        "name": "Mihajlo I",
+        "image": "https://i.ibb.co/6438fRY/800px-Copy-of-Ktetorial-Portrait-of-Serbian-King-Mihailo-Vojisavljevi-the-ruler-of-Dioclea-around-10.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Duklja (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1081,
+        "title": "Veliki Župan",
+        "name": "Konstantin Bodin",
+        "image": "https://i.ibb.co/XDsd4Tw/Konstantin-Bodin.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%91%D0%BE%D0%B4%D0%B8%D0%BD",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Duklja (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1083,
+        "title": "Veliki Župan",
+        "name": "Vukan I",
+        "image": "https://i.ibb.co/Dgr2MTg/upan-Vukan.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D1%83%D0%BA%D0%B0%D0%BD_I_(%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D0%B6%D1%83%D0%BF%D0%B0%D0%BD)",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Duklja (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1091,
+        "title": "Veliki Župan",
+        "name": "Vukan I",
+        "image": "https://i.ibb.co/Dgr2MTg/upan-Vukan.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D1%83%D0%BA%D0%B0%D0%BD_I_(%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D0%B6%D1%83%D0%BF%D0%B0%D0%BD)",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1112,
+        "title": "Veliki Župan",
+        "name": "Uroš I",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1118,
+        "title": "Veliki Župan",
+        "name": "Uroš I",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Bosna"
+            },
+            {
+                "color": "#00FF66",
+                "name": "Raška (Vizantija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1138,
+        "title": "Veliki Župan",
+        "name": "Uroš I Vukanović",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": [
+            {
+                "color": "#00FF66",
+                "name": "Raška (Vizantija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1138,
+        "title": "Veliki Župan",
+        "name": "Uroš II Primislav",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_II_%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
+        "states": [
+            {
+                "color": "#00FF66",
+                "name": "Raška (Vizantija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1149,
+        "title": "Veliki Župan",
+        "name": "Uroš II Primislav",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_II_%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Raška (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1162,
+        "title": "Veliki Župan",
+        "name": "Desa Vukanović",
+        "image": "",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%94%D0%B5%D1%81%D0%B0",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Raška (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1166,
+        "title": "Veliki Župan",
+        "name": "Stefan Nemanja",
+        "image": "https://i.ibb.co/xYHY4NP/Stefan-Nemanja.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9D%D0%B5%D0%BC%D0%B0%D1%9A%D0%B0",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Raška (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1196,
+        "title": "Veliki Župan",
+        "name": "Stefan",
+        "image": "https://i.ibb.co/JQQBx0m/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Raška (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1202,
+        "title": "Veliki Župan",
+        "name": "Vukan",
+        "image": "https://i.ibb.co/3CgFQSG/Loza-Nemanjica-Decani-e-3.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://en.wikipedia.org/wiki/Vukan_Nemanji%C4%87",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Raška (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1204,
+        "title": "Veliki Župan",
+        "name": "Stefan",
+        "image": "https://i.ibb.co/JQQBx0m/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
+        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Raška (Srbija)"
+            }
+        ]
+    },
+    {
+        "startYear": 1217,
+        "title": "Kralj",
+        "name": "Stefan Prvovenčani",
+        "image": "https://i.ibb.co/JQQBx0m/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1228,
+        "title": "Kralj",
+        "name": "Stefan Radoslav",
+        "image": "https://i.ibb.co/FHy03wZ/Radoslav.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A0%D0%B0%D0%B4%D0%BE%D1%81%D0%BB%D0%B0%D0%B2",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    },
+    {
+        "startYear": 1233,
+        "title": "Kralj",
+        "name": "Stefan Vladislav",
+        "image": "https://i.ibb.co/5cmmd9x/Fresco-of-Stefan-Vladislav-Mile-eva-edited.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
+        "states": [
+            {
+                "color": "#FF0000",
+                "name": "Srbija"
+            }
+        ]
+    }
+]
