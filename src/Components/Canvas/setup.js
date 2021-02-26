@@ -24,6 +24,11 @@ const setup = (p) => {
     const canvas = p.createCanvas(size, size);
     p.myMap = mappa.tileMap(options);
     p.myMap.overlay(canvas);
+    setTimeout(() => {
+        p.myMap.map.options.inertia = false;
+        p.myMap.map.options.maxZoom = 7;
+        p.myMap.map.options.minZoom = 4;
+    }, 500)
     p.textFont(p.fontFamily);
 
     p.myMap.onChange(() => p.shouldDraw = true);

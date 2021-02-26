@@ -8,7 +8,7 @@
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%92%D0%B8%D1%88%D0%B5%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -22,7 +22,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -36,7 +36,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D1%83%D1%82%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -50,7 +50,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D1%83%D1%82%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -64,7 +64,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%93%D0%BE%D1%98%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -78,7 +78,7 @@
         "wiki": "https://en.wikipedia.org/wiki/Pavle_of_Serbia",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -92,7 +92,7 @@
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%B8%D1%98%D0%B0_%D0%9F%D1%80%D0%B8%D0%B1%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -106,7 +106,7 @@
         "wiki": "",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -120,7 +120,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%BB%D0%BE%D0%BD%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -134,7 +134,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A7%D1%83%D1%87%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -148,7 +148,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%94%D1%83%D0%BA%D1%99%D0%B0%D0%BD%D1%81%D0%BA%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -162,7 +162,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -176,7 +176,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
-                "color": "#00BBFF",
+                "color": "rgba(45, 122, 140, 0.5)",
                 "name": "Srbija (Bugarska)"
             }
         ]
@@ -190,7 +190,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
-                "color": "#00FF66",
+                "color": "byzantine",
                 "name": "Srbija (Vizantija)"
             }
         ]
@@ -204,12 +204,8 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
-                "color": "#00FF66",
+                "color": "byzantine",
                 "name": "Srbija (Vizantija)"
-            },
-            {
-                "color": "rgba(255, 0, 0, 0.5)",
-                "name": "Duklja (Srbija)"
             }
         ]
     },
@@ -222,12 +218,8 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%93%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#00FF66",
+                "color": "byzantine",
                 "name": "Srbija (Vizantija)"
-            },
-            {
-                "color": "rgba(255, 0, 0, 0.5)",
-                "name": "Duklja (Srbija)"
             }
         ]
     },
@@ -240,7 +232,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%93%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Duklja (Srbija)"
             }
         ]
@@ -254,7 +246,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Duklja (Srbija)"
             }
         ]
@@ -268,7 +260,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Duklja (Srbija)"
             }
         ]
@@ -282,7 +274,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%91%D0%BE%D0%B4%D0%B8%D0%BD",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Duklja (Srbija)"
             }
         ]
@@ -296,7 +288,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D1%83%D0%BA%D0%B0%D0%BD_I_(%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D0%B6%D1%83%D0%BF%D0%B0%D0%BD)",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Duklja (Srbija)"
             }
         ]
@@ -310,7 +302,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D1%83%D0%BA%D0%B0%D0%BD_I_(%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D0%B6%D1%83%D0%BF%D0%B0%D0%BD)",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -324,7 +316,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -338,11 +330,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Bosna"
             },
             {
-                "color": "#00FF66",
+                "color": "byzantine",
                 "name": "Raška (Vizantija)"
             }
         ]
@@ -356,7 +348,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#00FF66",
+                "color": "byzantine",
                 "name": "Raška (Vizantija)"
             }
         ]
@@ -370,7 +362,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_II_%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
-                "color": "#00FF66",
+                "color": "byzantine",
                 "name": "Raška (Vizantija)"
             }
         ]
@@ -384,7 +376,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_II_%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Raška (Srbija)"
             }
         ]
@@ -398,7 +390,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%94%D0%B5%D1%81%D0%B0",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Raška (Srbija)"
             }
         ]
@@ -412,7 +404,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9D%D0%B5%D0%BC%D0%B0%D1%9A%D0%B0",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Raška (Srbija)"
             }
         ]
@@ -426,7 +418,7 @@
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Raška (Srbija)"
             }
         ]
@@ -440,7 +432,7 @@
         "wiki": "https://en.wikipedia.org/wiki/Vukan_Nemanji%C4%87",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Raška (Srbija)"
             }
         ]
@@ -454,7 +446,7 @@
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Raška (Srbija)"
             }
         ]
@@ -468,7 +460,7 @@
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -482,7 +474,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A0%D0%B0%D0%B4%D0%BE%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -496,7 +488,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -510,7 +502,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_I",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -524,7 +516,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%80%D0%B0%D0%B3%D1%83%D1%82%D0%B8%D0%BD",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -538,7 +530,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9C%D0%B8%D0%BB%D1%83%D1%82%D0%B8%D0%BD",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -552,7 +544,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -566,7 +558,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_III",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -580,7 +572,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%83%D1%88%D0%B0%D0%BD",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -594,7 +586,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%83%D1%88%D0%B0%D0%BD",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -608,7 +600,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_V",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -622,7 +614,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%A5%D1%80%D0%B5%D0%B1%D0%B5%D1%99%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -636,7 +628,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -650,7 +642,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -664,7 +656,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%82%D1%83%D1%80%D0%B0%D1%92_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -678,7 +670,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -692,7 +684,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -707,6 +699,15 @@
         "states": []
     },
     {
+        "startYear": 1804,
+        "title": "Vožd",
+        "name": "Đorđe Petrović",
+        "image": "https://i.ibb.co/2Mtwx43/800px-Kara-or-e-Petrovi-by-Vladimir-Borovikovsky-1816.jpg",
+        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
+        "states": []
+    },
+    {
         "startYear": 1815,
         "title": "Vožd",
         "name": "Đorđe Petrović",
@@ -715,7 +716,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -729,7 +730,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -743,7 +744,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -757,7 +758,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B_(%D0%BA%D0%BD%D0%B5%D0%B7)",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -771,7 +772,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -785,7 +786,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -799,7 +800,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#FF00FF",
+                "color": "turkey",
                 "name": "Srbija (Otomansko carstvo)"
             }
         ]
@@ -813,7 +814,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -827,7 +828,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -841,7 +842,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -855,7 +856,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -878,11 +879,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Kraljevina Srba, Hrvata i Slovenaca"
             }
         ]
@@ -896,11 +897,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Kraljevina Srba, Hrvata i Slovenaca"
             }
         ]
@@ -914,11 +915,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Kraljevina Srba, Hrvata i Slovenaca"
             }
         ]
@@ -932,7 +933,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "#55FF11",
+                "color": "germany",
                 "name": "Srbija (Treći Rajh)"
             }
         ]
@@ -946,7 +947,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -960,11 +961,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A0%D0%B8%D0%B1%D0%B0%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -978,11 +979,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D1%81%D0%B8%D0%BF_%D0%91%D1%80%D0%BE%D0%B7_%D0%A2%D0%B8%D1%82%D0%BE",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -996,11 +997,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D1%81%D0%B8%D0%BF_%D0%91%D1%80%D0%BE%D0%B7_%D0%A2%D0%B8%D1%82%D0%BE",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1014,11 +1015,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9A%D0%BE%D0%BB%D0%B8%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1032,11 +1033,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B8%D1%98%D0%B5%D1%82%D0%B8%D0%BD_%D0%9C%D0%B8%D1%98%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1050,11 +1051,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%98_%D0%9A%D1%80%D0%B0%D1%98%D0%B3%D0%B5%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1068,11 +1069,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%BB%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1086,11 +1087,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%B0_%D0%A8%D0%BF%D0%B8%D1%99%D0%B0%D0%BA",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1104,11 +1105,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%B8%D0%BD_%D0%82%D1%83%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1122,11 +1123,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D1%98%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1140,11 +1141,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B0%D0%BD_%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1158,11 +1159,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9C%D0%BE%D1%98%D1%81%D0%BE%D0%B2",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1176,11 +1177,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B8%D1%84_%D0%94%D0%B8%D0%B7%D0%B4%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1194,11 +1195,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B0%D0%B2_%D0%88%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1212,11 +1213,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D1%98%D0%B5%D0%BF%D0%B0%D0%BD_%D0%9C%D0%B5%D1%81%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1230,11 +1231,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE_%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1248,11 +1249,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%D0%BD_%D0%9C%D0%B8%D0%BB%D0%BE%D1%88%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1266,11 +1267,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%BE%D1%88%D1%82%D1%83%D0%BD%D0%B8%D1%86%D0%B0",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Jugoslavija"
             }
         ]
@@ -1284,11 +1285,11 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D0%B0%D0%B4%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "rgba(255, 0, 0, 0.75)",
                 "name": "Srbija"
             },
             {
-                "color": "#AA0000",
+                "color": "serbia",
                 "name": "Srbija i Crna Gora"
             }
         ]
@@ -1302,7 +1303,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D0%B0%D0%B4%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -1316,7 +1317,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]
@@ -1330,7 +1331,7 @@
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%92%D1%83%D1%87%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.5)",
+                "color": "serbia",
                 "name": "Srbija"
             }
         ]

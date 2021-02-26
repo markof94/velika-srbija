@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
+import colors from '../../Data/colors.json'
 
 const Container = styled.div`
     display: flex;
@@ -28,6 +29,12 @@ const Label = styled.div`
     }
 `;
 
+
+const getColor = (colorName = "serbia") => {
+    const foundColor = colors.filter(c => c.name === colorName)[0];
+    return foundColor ? foundColor.color : "rgba(255, 0, 0, 0.5)";
+}
+
 const Component = (props) => {
 
     const { state } = props;
@@ -35,7 +42,7 @@ const Component = (props) => {
     return (
         <Container>
             <Color
-                color={state.color}
+                color={getColor(state.color)}
             />
             <Label>
                 {state.name}

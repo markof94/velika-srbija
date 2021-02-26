@@ -1,3 +1,22 @@
-{
-    "serbia": "rgba(255, 0, 0, 0.5)"
-}
+[
+    {
+        "name": "serbia",
+        "color": "rgba(255, 0, 0, 0.5)"
+    },
+    {
+        "name": "bulgaria",
+        "color": "rgba(45, 122, 140, 0.5)"
+    },
+    {
+        "name": "byzantine",
+        "color": "rgba(175, 65, 146, 0.5)"
+    },
+    {
+        "name": "turkey",
+        "color": "rgba(36, 128, 150, 0.5)"
+    },
+    {
+        "name": "germany",
+        "color": "rgba(35, 78, 35, 0.5)"
+    }
+]
