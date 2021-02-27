@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/velika-srbija/static/css/main.0cea320a.chunk.css",
-    "main.js": "/velika-srbija/static/js/main.6b0784eb.chunk.js",
-    "main.js.map": "/velika-srbija/static/js/main.6b0784eb.chunk.js.map",
+    "main.js": "/velika-srbija/static/js/main.cf88a8d7.chunk.js",
+    "main.js.map": "/velika-srbija/static/js/main.cf88a8d7.chunk.js.map",
     "runtime-main.js": "/velika-srbija/static/js/runtime-main.480c20b2.js",
     "runtime-main.js.map": "/velika-srbija/static/js/runtime-main.480c20b2.js.map",
-    "static/js/2.fc9ced3e.chunk.js": "/velika-srbija/static/js/2.fc9ced3e.chunk.js",
-    "static/js/2.fc9ced3e.chunk.js.map": "/velika-srbija/static/js/2.fc9ced3e.chunk.js.map",
+    "static/js/2.ab200a90.chunk.js": "/velika-srbija/static/js/2.ab200a90.chunk.js",
+    "static/js/2.ab200a90.chunk.js.map": "/velika-srbija/static/js/2.ab200a90.chunk.js.map",
     "index.html": "/velika-srbija/index.html",
     "static/css/main.0cea320a.chunk.css.map": "/velika-srbija/static/css/main.0cea320a.chunk.css.map",
-    "static/js/2.fc9ced3e.chunk.js.LICENSE.txt": "/velika-srbija/static/js/2.fc9ced3e.chunk.js.LICENSE.txt"
+    "static/js/2.ab200a90.chunk.js.LICENSE.txt": "/velika-srbija/static/js/2.ab200a90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.480c20b2.js",
-    "static/js/2.fc9ced3e.chunk.js",
+    "static/js/2.ab200a90.chunk.js",
     "static/css/main.0cea320a.chunk.css",
-    "static/js/main.6b0784eb.chunk.js"
+    "static/js/main.cf88a8d7.chunk.js"
   ]
 }
