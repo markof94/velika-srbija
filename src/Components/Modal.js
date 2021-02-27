@@ -29,6 +29,7 @@ const Wrapper = styled.div`
     animation: slide-in-bottom 0.5s 0.25s ease both;
     background: black;
     border-radius: 30px 30px 0 0;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 
     ${props => props.isClosing && `
         animation: slide-out-bottom 0.25s ease both;

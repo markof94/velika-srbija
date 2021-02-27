@@ -11,7 +11,6 @@ const Container = styled.div`
 
 const Color = styled.div`
     border-radius: 4px;
-    border: 2px solid black;
     width: 32px;
     height: 32px;
     background-color: ${props => props.color};
@@ -37,7 +36,7 @@ const getColor = (colorName = "serbia") => {
 
 const Component = (props) => {
 
-    const { state } = props;
+    const { state, alphabet } = props;
 
     return (
         <Container>
@@ -45,7 +44,7 @@ const Component = (props) => {
                 color={getColor(state.color)}
             />
             <Label>
-                {state.name}
+                {alphabet === 'cirilica' && state.nameCir ? state.nameCir : state.name}
             </Label>
         </Container>
     )

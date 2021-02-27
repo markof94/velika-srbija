@@ -7,7 +7,8 @@ import Info from './Info'
 
 const Container = styled.div`
     width: 100vmin;
-    padding: 0 24px;
+    padding: 16px 24px;
+    padding-top: 32px;
     display: flex;
     pointer-events: none;
 `;
@@ -15,10 +16,6 @@ const Container = styled.div`
 const Component = (props) => {
 
     const [entry, setEntry] = useState(null);
-
-    useEffect(() => {
-        findEntry(props.year);
-    }, []);
 
     useEffect(() => {
         findEntry(props.year);
@@ -43,9 +40,8 @@ const Component = (props) => {
                 entry={entry}
                 year={props.year}
                 setModalSrc={props.setModalSrc}
+                alphabet={props.alphabet}
             />
-            
-            
         </Container>
     )
 }

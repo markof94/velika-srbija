@@ -8,7 +8,7 @@ const Container = styled.div`
     bottom: 0;
     width: 100vmin;
     color: #FFFFFF;
-   
+    -webkit-filter: drop-shadow(0 3px 2px rgba(0,0,0,0.23));
 `;
 
 const Legend = styled.div`
@@ -30,7 +30,7 @@ const Name = styled.div`
     }
 
     @media(max-width: 330px){
-        font-size: 20px;
+        font-size: 18px;
     }
 `;
 
@@ -67,7 +67,8 @@ const Component = (props) => {
     const {
         entry,
         year,
-        setModalSrc
+        setModalSrc,
+        alphabet
     } = props;
 
     return (
@@ -78,6 +79,7 @@ const Component = (props) => {
                         <LegendState
                             key={i}
                             state={state}
+                            alphabet={alphabet}
                         />
                     )
                 })}
@@ -86,16 +88,16 @@ const Component = (props) => {
             <Bottom>
                 <Section>
                     <Portrait
-                        src={entry.image}
                         onClick={() => setModalSrc(entry.wiki)}
-                        hasWiki={entry.wiki && entry.wiki !== ""}
+                        src={entry.image}
+                        entry={entry}
                     />
                     <SubSection
                         style={{ marginLeft: `14px` }}
                     >
                         <div>
                             <Title>
-                                {entry.title}
+                                {alphabet === "cirilica" && entry.titleCir ? entry.titleCir : entry.title}
                             </Title>
 
                             <Name
@@ -103,12 +105,14 @@ const Component = (props) => {
                                     marginBottom: `10px`
                                 }}
                             >
-                                {entry.name}
+                                {alphabet === "cirilica" && entry.nameCir ? entry.nameCir : entry.name}
                             </Name>
                         </div>
-                        <Year>
-                            {`${year}.`}
-                        </Year>
+                        {false &&
+                            <Year>
+                                {`${year}.`}
+                            </Year>
+                        }
                     </SubSection>
                 </Section>
 
@@ -117,15 +121,9 @@ const Component = (props) => {
                     <SubSection
                         style={{ textAlign: `center`, justifyContent: `flex-end` }}
                     >
-                        <Title
-                            style={{ marginBottom: `8px` }}
-                        >
-                            {`Zastava`}
-                        </Title>
-
                         <Portrait
                             src={entry.flag}
-                            horizontal
+                            noBackground
                         />
                     </SubSection>
                 </Section>

@@ -20,6 +20,8 @@ const PrettoSlider = withStyles({
     root: {
       color: 'rgba(255, 0, 0, 0.5)',
       height: 8,
+      
+      
     },
     thumb: {
       height: 24,
@@ -31,18 +33,22 @@ const PrettoSlider = withStyles({
       '&:focus, &:hover, &$active': {
         boxShadow: 'inherit',
       },
+      boxShadow: `0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)`
     },
     active: {},
     valueLabel: {
       left: 'calc(-50% + 4px)',
+      fontFamily: `Cuprum`
     },
     track: {
       height: 8,
       borderRadius: 4,
+      boxShadow: `0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)`
     },
     rail: {
       height: 8,
       borderRadius: 4,
+      boxShadow: `0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)`
     },
   })(Slider);
 

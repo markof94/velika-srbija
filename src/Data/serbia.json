@@ -3,13 +3,16 @@
         "startYear": 780,
         "title": "Župan",
         "name": "Višeslav",
-        "image": "https://i.ibb.co/8c0SBsH/Vi-eslav-Prince-of-the-Serbs.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Вишеслав",
+        "image": "https://i.ibb.co/d28PNty/Vi-eslav-Prince-of-the-Serbs.jpg",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%92%D0%B8%D1%88%D0%B5%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -17,13 +20,16 @@
         "startYear": 839,
         "title": "Župan",
         "name": "Vlastimir",
-        "image": "https://i.ibb.co/B2mbXL9/Vlastimir-Prince-of-the-Serbs.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Властимир",
+        "image": "https://i.ibb.co/Z6ndMQL/Vlastimir-Prince-of-the-Serbs.jpg",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -31,13 +37,16 @@
         "startYear": 850,
         "title": "Župan",
         "name": "Mutimir",
-        "image": "https://i.ibb.co/PQq93w7/Mutimir-v2.png",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Мутимир",
+        "image": "https://i.ibb.co/ngX3YKn/Mutimir-v2.png",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D1%83%D1%82%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -45,13 +54,16 @@
         "startYear": 891,
         "title": "Župan",
         "name": "Pribislav",
+        "titleCir": "Жупан",
+        "nameCir": "Прибислав",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B1%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9C%D1%83%D1%82%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -59,13 +71,16 @@
         "startYear": 892,
         "title": "Župan",
         "name": "Petar",
+        "titleCir": "Жупан",
+        "nameCir": "Петар",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%93%D0%BE%D1%98%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -73,13 +88,16 @@
         "startYear": 917,
         "title": "Župan",
         "name": "Pavle",
-        "image": "https://i.ibb.co/mzxc654/Pavle-Prince-of-the-Serbs.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Павле",
+        "image": "https://i.ibb.co/FHzgmMj/Pavle-Prince-of-the-Serbs.jpg",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://en.wikipedia.org/wiki/Pavle_of_Serbia",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -87,13 +105,16 @@
         "startYear": 921,
         "title": "Župan",
         "name": "Zaharija",
-        "image": "https://i.ibb.co/x3XzpMh/643px-Zupan-Zaharija.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Захарија",
+        "image": "https://i.ibb.co/TP6wNVR/643px-Zupan-Zaharija.jpg",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%B8%D1%98%D0%B0_%D0%9F%D1%80%D0%B8%D0%B1%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -107,7 +128,8 @@
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -115,13 +137,16 @@
         "startYear": 927,
         "title": "Župan",
         "name": "Časlav",
-        "image": "https://i.ibb.co/qdzKpZY/FELJ1.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Часлав",
+        "image": "https://i.ibb.co/GRHVyLz/FELJ1.jpg",
+        "flag": "https://i.ibb.co/T4h0jPm/vlastimirovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%BB%D0%BE%D0%BD%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -129,13 +154,16 @@
         "startYear": 960,
         "title": "Župan",
         "name": "Čučimir",
+        "titleCir": "Жупан",
+        "nameCir": "Чучимир",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A7%D1%83%D1%87%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -143,13 +171,16 @@
         "startYear": 971,
         "title": "Župan",
         "name": "Petar Dukljanski",
+        "titleCir": "Жупан",
+        "nameCir": "Петар Дукљански",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%94%D1%83%D0%BA%D1%99%D0%B0%D0%BD%D1%81%D0%BA%D0%B8",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -157,13 +188,16 @@
         "startYear": 992,
         "title": "Župan",
         "name": "Jovan Vladimir",
-        "image": "https://i.ibb.co/kGwhx90/Jovan-Vladimir-Slika.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Јован Владимир",
+        "image": "https://i.ibb.co/9ZcwggF/Jovan-Vladimir-Slika.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -171,13 +205,16 @@
         "startYear": 1000,
         "title": "Župan",
         "name": "Jovan Vladimir",
-        "image": "https://i.ibb.co/kGwhx90/Jovan-Vladimir-Slika.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Јован Владимир",
+        "image": "https://i.ibb.co/9ZcwggF/Jovan-Vladimir-Slika.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80",
         "states": [
             {
-                "color": "rgba(45, 122, 140, 0.5)",
-                "name": "Srbija (Bugarska)"
+                "color": "bulgaria",
+                "name": "Srbija (Bugarska)",
+                "nameCir": "Србија (Бугарска)"
             }
         ]
     },
@@ -185,13 +222,16 @@
         "startYear": 1018,
         "title": "Župan",
         "name": "Stefan Vojislav",
-        "image": "https://i.ibb.co/WFy3BQR/image.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Стефан Војислав",
+        "image": "https://i.ibb.co/z7Qvshj/image.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
                 "color": "byzantine",
-                "name": "Srbija (Vizantija)"
+                "name": "Srbija (Vizantija)",
+                "nameCir": "Србија (Византија)"
             }
         ]
     },
@@ -199,13 +239,16 @@
         "startYear": 1034,
         "title": "Župan",
         "name": "Stefan Vojislav",
-        "image": "https://i.ibb.co/WFy3BQR/image.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Стефан Војислав",
+        "image": "https://i.ibb.co/z7Qvshj/image.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
                 "color": "byzantine",
-                "name": "Srbija (Vizantija)"
+                "name": "Srbija (Vizantija)",
+                "nameCir": "Србија (Византија)"
             }
         ]
     },
@@ -213,13 +256,16 @@
         "startYear": 1043,
         "title": "Župan",
         "name": "Gojislav",
+        "titleCir": "Жупан",
+        "nameCir": "Гојислав",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%93%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "byzantine",
-                "name": "Srbija (Vizantija)"
+                "name": "Srbija (Vizantija)",
+                "nameCir": "Србија (Византија)"
             }
         ]
     },
@@ -227,13 +273,16 @@
         "startYear": 1044,
         "title": "Župan",
         "name": "Gojislav",
+        "titleCir": "Жупан",
+        "nameCir": "Гојислав",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%93%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Duklja (Srbija)"
+                "name": "Duklja (Srbija)",
+                "nameCir": "Дукља (Србија)"
             }
         ]
     },
@@ -241,13 +290,16 @@
         "startYear": 1050,
         "title": "Župan",
         "name": "Mihajlo I",
-        "image": "https://i.ibb.co/6438fRY/800px-Copy-of-Ktetorial-Portrait-of-Serbian-King-Mihailo-Vojisavljevi-the-ruler-of-Dioclea-around-10.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Жупан",
+        "nameCir": "Михајло I",
+        "image": "https://i.ibb.co/Sxz4DSt/800px-Copy-of-Ktetorial-Portrait-of-Serbian-King-Mihailo-Vojisavljevi-the-ruler-of-Dioclea-around-10.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Duklja (Srbija)"
+                "name": "Duklja (Srbija)",
+                "nameCir": "Дукља (Србија)"
             }
         ]
     },
@@ -255,13 +307,16 @@
         "startYear": 1077,
         "title": "Veliki Župan",
         "name": "Mihajlo I",
-        "image": "https://i.ibb.co/6438fRY/800px-Copy-of-Ktetorial-Portrait-of-Serbian-King-Mihailo-Vojisavljevi-the-ruler-of-Dioclea-around-10.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Михајло I",
+        "image": "https://i.ibb.co/Sxz4DSt/800px-Copy-of-Ktetorial-Portrait-of-Serbian-King-Mihailo-Vojisavljevi-the-ruler-of-Dioclea-around-10.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D1%99%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Duklja (Srbija)"
+                "name": "Duklja (Srbija)",
+                "nameCir": "Дукља (Србија)"
             }
         ]
     },
@@ -269,13 +324,16 @@
         "startYear": 1081,
         "title": "Veliki Župan",
         "name": "Konstantin Bodin",
-        "image": "https://i.ibb.co/XDsd4Tw/Konstantin-Bodin.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Константин Бодин",
+        "image": "https://i.ibb.co/qMMBRWr/Konstantin-Bodin.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%91%D0%BE%D0%B4%D0%B8%D0%BD",
         "states": [
             {
                 "color": "serbia",
-                "name": "Duklja (Srbija)"
+                "name": "Duklja (Srbija)",
+                "nameCir": "Дукља (Србија)"
             }
         ]
     },
@@ -283,13 +341,16 @@
         "startYear": 1083,
         "title": "Veliki Župan",
         "name": "Vukan I",
-        "image": "https://i.ibb.co/Dgr2MTg/upan-Vukan.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Вукан I",
+        "image": "https://i.ibb.co/vDCdtzq/upan-Vukan.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D1%83%D0%BA%D0%B0%D0%BD_I_(%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D0%B6%D1%83%D0%BF%D0%B0%D0%BD)",
         "states": [
             {
                 "color": "serbia",
-                "name": "Duklja (Srbija)"
+                "name": "Duklja (Srbija)",
+                "nameCir": "Дукља (Србија)"
             }
         ]
     },
@@ -297,13 +358,16 @@
         "startYear": 1091,
         "title": "Veliki Župan",
         "name": "Vukan I",
-        "image": "https://i.ibb.co/Dgr2MTg/upan-Vukan.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Вукан I",
+        "image": "https://i.ibb.co/vDCdtzq/upan-Vukan.jpg",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D1%83%D0%BA%D0%B0%D0%BD_I_(%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8_%D0%B6%D1%83%D0%BF%D0%B0%D0%BD)",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -311,13 +375,16 @@
         "startYear": 1112,
         "title": "Veliki Župan",
         "name": "Uroš I",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Урош I",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/QKZ9sBH/1duklja.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -325,17 +392,21 @@
         "startYear": 1118,
         "title": "Veliki Župan",
         "name": "Uroš I",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Урош I",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Bosna"
+                "name": "Bosna",
+                "nameCir": "Босна"
             },
             {
                 "color": "byzantine",
-                "name": "Raška (Vizantija)"
+                "name": "Raška (Vizantija)",
+                "nameCir": "Рашка (Византија)"
             }
         ]
     },
@@ -343,13 +414,16 @@
         "startYear": 1138,
         "title": "Veliki Župan",
         "name": "Uroš I Vukanović",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Урош I Вукановић",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_I_%D0%92%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "byzantine",
-                "name": "Raška (Vizantija)"
+                "name": "Raška (Vizantija)",
+                "nameCir": "Рашка (Византија)"
             }
         ]
     },
@@ -357,13 +431,16 @@
         "startYear": 1138,
         "title": "Veliki Župan",
         "name": "Uroš II Primislav",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Урош II Примислав",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_II_%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
                 "color": "byzantine",
-                "name": "Raška (Vizantija)"
+                "name": "Raška (Vizantija)",
+                "nameCir": "Рашка (Византија)"
             }
         ]
     },
@@ -371,13 +448,16 @@
         "startYear": 1149,
         "title": "Veliki Župan",
         "name": "Uroš II Primislav",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Урош II Примислав",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D1%88_II_%D0%9F%D1%80%D0%B8%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
                 "color": "serbia",
-                "name": "Raška (Srbija)"
+                "name": "Raška (Srbija)",
+                "nameCir": "Рашка (Србија)"
             }
         ]
     },
@@ -385,13 +465,16 @@
         "startYear": 1162,
         "title": "Veliki Župan",
         "name": "Desa Vukanović",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Деса Вукановић",
         "image": "",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%94%D0%B5%D1%81%D0%B0",
         "states": [
             {
                 "color": "serbia",
-                "name": "Raška (Srbija)"
+                "name": "Raška (Srbija)",
+                "nameCir": "Рашка (Србија)"
             }
         ]
     },
@@ -399,13 +482,16 @@
         "startYear": 1166,
         "title": "Veliki Župan",
         "name": "Stefan Nemanja",
-        "image": "https://i.ibb.co/xYHY4NP/Stefan-Nemanja.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Стефан Немања",
+        "image": "https://i.ibb.co/nQfy91c/Stefan-Nemanja.jpg",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9D%D0%B5%D0%BC%D0%B0%D1%9A%D0%B0",
         "states": [
             {
                 "color": "serbia",
-                "name": "Raška (Srbija)"
+                "name": "Raška (Srbija)",
+                "nameCir": "Рашка (Србија)"
             }
         ]
     },
@@ -413,13 +499,16 @@
         "startYear": 1196,
         "title": "Veliki Župan",
         "name": "Stefan",
-        "image": "https://i.ibb.co/JQQBx0m/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Стефан",
+        "image": "https://i.ibb.co/r4JNBVd/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
         "states": [
             {
                 "color": "serbia",
-                "name": "Raška (Srbija)"
+                "name": "Raška (Srbija)",
+                "nameCir": "Рашка (Србија)"
             }
         ]
     },
@@ -427,13 +516,16 @@
         "startYear": 1202,
         "title": "Veliki Župan",
         "name": "Vukan",
-        "image": "https://i.ibb.co/3CgFQSG/Loza-Nemanjica-Decani-e-3.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Вукан",
+        "image": "https://i.ibb.co/N91JWLn/Loza-Nemanjica-Decani-e-3.jpg",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://en.wikipedia.org/wiki/Vukan_Nemanji%C4%87",
         "states": [
             {
                 "color": "serbia",
-                "name": "Raška (Srbija)"
+                "name": "Raška (Srbija)",
+                "nameCir": "Рашка (Србија)"
             }
         ]
     },
@@ -441,13 +533,16 @@
         "startYear": 1204,
         "title": "Veliki Župan",
         "name": "Stefan",
-        "image": "https://i.ibb.co/JQQBx0m/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
-        "flag": "https://i.ibb.co/t2KdLC9/viseslav.png",
+        "titleCir": "Велики Жупан",
+        "nameCir": "Стефан",
+        "image": "https://i.ibb.co/r4JNBVd/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
+        "flag": "https://i.ibb.co/y4gvkg6/2raska.png",
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
         "states": [
             {
                 "color": "serbia",
-                "name": "Raška (Srbija)"
+                "name": "Raška (Srbija)",
+                "nameCir": "Рашка (Србија)"
             }
         ]
     },
@@ -455,13 +550,16 @@
         "startYear": 1217,
         "title": "Kralj",
         "name": "Stefan Prvovenčani",
-        "image": "https://i.ibb.co/JQQBx0m/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Првовенчани",
+        "image": "https://i.ibb.co/r4JNBVd/Sv-Stefan-Prvovencani-slika-O-75123909.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/sr-el/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9F%D1%80%D0%B2%D0%BE%D0%B2%D0%B5%D0%BD%D1%87%D0%B0%D0%BD%D0%B8",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -469,13 +567,16 @@
         "startYear": 1228,
         "title": "Kralj",
         "name": "Stefan Radoslav",
-        "image": "https://i.ibb.co/FHy03wZ/Radoslav.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Радослав",
+        "image": "https://i.ibb.co/Lht4mhr/Radoslav.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A0%D0%B0%D0%B4%D0%BE%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -483,13 +584,16 @@
         "startYear": 1233,
         "title": "Kralj",
         "name": "Stefan Vladislav",
-        "image": "https://i.ibb.co/5cmmd9x/Fresco-of-Stefan-Vladislav-Mile-eva-edited.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Владислав",
+        "image": "https://i.ibb.co/s1JbcBW/Fresco-of-Stefan-Vladislav-Mile-eva-edited.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -497,13 +601,16 @@
         "startYear": 1243,
         "title": "Kralj",
         "name": "Stefan Uroš I",
-        "image": "https://i.ibb.co/ggX9P3c/King-Stefan-Uro-I-with-his-son-Stefan-Dragutin.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Урош I",
+        "image": "https://i.ibb.co/RSNB45C/King-Stefan-Uro-I-with-his-son-Stefan-Dragutin.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_I",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -511,13 +618,16 @@
         "startYear": 1276,
         "title": "Kralj",
         "name": "Stefan Dragutin",
-        "image": "https://i.ibb.co/hyvxmk3/Fresco-of-Stefan-Dragutin-Arilje.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Драгутин",
+        "image": "https://i.ibb.co/8jRM3gX/Fresco-of-Stefan-Dragutin-Arilje.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%80%D0%B0%D0%B3%D1%83%D1%82%D0%B8%D0%BD",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -525,13 +635,16 @@
         "startYear": 1282,
         "title": "Kralj",
         "name": "Stefan Milutin",
-        "image": "https://i.ibb.co/7YDhvd3/Milutinst.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Милутин",
+        "image": "https://i.ibb.co/s3yspHZ/Milutinst.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9C%D0%B8%D0%BB%D1%83%D1%82%D0%B8%D0%BD",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -539,13 +652,16 @@
         "startYear": 1321,
         "title": "Kralj",
         "name": "Stefan Konstantin",
-        "image": "https://i.ibb.co/Pj8SgrN/Konstantin-Gracanica-loza-lik.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Константин",
+        "image": "https://i.ibb.co/YR4d4m4/Konstantin-Gracanica-loza-lik.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -553,13 +669,16 @@
         "startYear": 1322,
         "title": "Kralj",
         "name": "Stefan Dečanski",
-        "image": "https://i.ibb.co/hmcwzzL/Stefan-Decanski-ktitor.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Дечански",
+        "image": "https://i.ibb.co/1R7ZHpG/Stefan-Decanski-ktitor.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_III",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -567,13 +686,16 @@
         "startYear": 1331,
         "title": "Kralj",
         "name": "Stefan Dušan",
-        "image": "https://i.ibb.co/3rbWHKw/Car-Du-an-Manastir-Lesnovo-XIV-vek-Makedonija.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Стефан Душан",
+        "image": "https://i.ibb.co/whKNt5F/Car-Du-an-Manastir-Lesnovo-XIV-vek-Makedonija.jpg",
+        "flag": "https://i.ibb.co/N3G0p87/3kraljevina-copy.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%83%D1%88%D0%B0%D0%BD",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -581,13 +703,16 @@
         "startYear": 1346,
         "title": "Car",
         "name": "Stefan Dušan",
-        "image": "https://i.ibb.co/3rbWHKw/Car-Du-an-Manastir-Lesnovo-XIV-vek-Makedonija.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Цар",
+        "nameCir": "Стефан Душан",
+        "image": "https://i.ibb.co/whKNt5F/Car-Du-an-Manastir-Lesnovo-XIV-vek-Makedonija.jpg",
+        "flag": "https://i.ibb.co/0yfKW0j/4carstvo.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%94%D1%83%D1%88%D0%B0%D0%BD",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -595,13 +720,16 @@
         "startYear": 1355,
         "title": "Car",
         "name": "Stefan Uroš V",
-        "image": "https://i.ibb.co/qFscXhs/UrosV.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Цар",
+        "nameCir": "Стефан Урош V",
+        "image": "https://i.ibb.co/DQRbYTk/UrosV.jpg",
+        "flag": "https://i.ibb.co/0yfKW0j/4carstvo.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%A3%D1%80%D0%BE%D1%88_V",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -609,13 +737,16 @@
         "startYear": 1371,
         "title": "Knez",
         "name": "Lazar Hrebeljanović",
-        "image": "https://i.ibb.co/2Ync8Gt/Knez-Lazar-Vladislav-Titelbah.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Лазар Хребељановић",
+        "image": "https://i.ibb.co/qx1dncb/Knez-Lazar-Vladislav-Titelbah.jpg",
+        "flag": "https://i.ibb.co/SwY0wQF/5lazar.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%A5%D1%80%D0%B5%D0%B1%D0%B5%D1%99%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -623,13 +754,16 @@
         "startYear": 1389,
         "title": "Knez",
         "name": "Stefan Lazarević",
-        "image": "https://i.ibb.co/KLHw424/Despot-Stefan-Lazarevic-480x716.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Стефан Лазаревић",
+        "image": "https://i.ibb.co/jGTCVVv/Despot-Stefan-Lazarevic-480x716.jpg",
+        "flag": "https://i.ibb.co/SwY0wQF/5lazar.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -637,13 +771,16 @@
         "startYear": 1402,
         "title": "Despot",
         "name": "Stefan Lazarević",
-        "image": "https://i.ibb.co/KLHw424/Despot-Stefan-Lazarevic-480x716.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Деспот",
+        "nameCir": "Стефан Лазаревић",
+        "image": "https://i.ibb.co/jGTCVVv/Despot-Stefan-Lazarevic-480x716.jpg",
+        "flag": "https://i.ibb.co/SwY0wQF/5lazar.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -651,13 +788,16 @@
         "startYear": 1427,
         "title": "Despot",
         "name": "Đurađ Branković",
-        "image": "https://i.ibb.co/LrsW8HP/91bb0527e2ec113e523092b983a38c81.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Деспот",
+        "nameCir": "Ђурађ Бранковић",
+        "image": "https://i.ibb.co/Jkw2KPR/91bb0527e2ec113e523092b983a38c81.jpg",
+        "flag": "https://i.ibb.co/TTn0mPH/1024px-Coat-Of-Arms-Of-Jovan-Stefanovic-Brankovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%82%D1%83%D1%80%D0%B0%D1%92_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -665,13 +805,16 @@
         "startYear": 1456,
         "title": "Despot",
         "name": "Lazar Branković",
-        "image": "https://i.ibb.co/1K6RyBn/Lazar-Brankovi-Esphigmenou-charter-1429.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Деспот",
+        "nameCir": "Лазар Бранковић",
+        "image": "https://i.ibb.co/7QkrrPS/Lazar-Brankovi-Esphigmenou-charter-1429.jpg",
+        "flag": "https://i.ibb.co/TTn0mPH/1024px-Coat-Of-Arms-Of-Jovan-Stefanovic-Brankovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -679,13 +822,16 @@
         "startYear": 1458,
         "title": "Despot",
         "name": "Stefan Branković",
-        "image": "https://i.ibb.co/SQwLY4r/Stefan-Brankovi-Esphigmenou-charter-1429.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Деспот",
+        "nameCir": "Стефан Бранковић",
+        "image": "https://i.ibb.co/kGwK8vV/Stefan-Brankovi-Esphigmenou-charter-1429.jpg",
+        "flag": "https://i.ibb.co/TTn0mPH/1024px-Coat-Of-Arms-Of-Jovan-Stefanovic-Brankovic.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD_%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -694,30 +840,59 @@
         "title": "",
         "name": "",
         "image": "",
-        "flag": "",
+        "flag": "https://i.ibb.co/wzcGNxC/ottoman.png",
+        "wiki": "https://sr.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B5_%D1%83_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83",
+        "states": []
+    },
+    {
+        "startYear": 1718,
+        "title": "",
+        "name": "",
+        "image": "",
+        "flag": "https://i.ibb.co/M2Nwb8T/14habzburska.png",
+        "wiki": "https://sr.wikipedia.org/sr-ec/%D0%9A%D1%80%D0%B0%D1%99%D0%B5%D0%B2%D0%B8%D0%BD%D0%B0_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0_(1718%E2%80%941739)",
+        "states": [
+            {
+                "color": "austria",
+                "name": "Kraljevina Srbija (Habzburška monarhija)",
+                "nameCir": "Краљевина Србија (Хабзбуршка монархија)"
+            }
+        ]
+    },
+    {
+        "startYear": 1739,
+        "title": "",
+        "name": "",
+        "image": "",
+        "flag": "https://i.ibb.co/wzcGNxC/ottoman.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%98%D0%B0_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B5_%D1%83_%D0%9E%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D1%83",
         "states": []
     },
     {
         "startYear": 1804,
         "title": "Vožd",
-        "name": "Đorđe Petrović",
-        "image": "https://i.ibb.co/2Mtwx43/800px-Kara-or-e-Petrovi-by-Vladimir-Borovikovsky-1816.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "name": "Đorđe Petrović - Karađorđe",
+        "titleCir": "Вожд",
+        "nameCir": "Ђорђе Петровић - Карађорђе",
+        "image": "https://i.ibb.co/zJdLrXC/800px-Kara-or-e-Petrovi-by-Vladimir-Borovikovsky-1816.jpg",
+        "flag": "https://i.ibb.co/wMq3wFB/Grb-Srbije-i-Tribalije-detalj.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": []
     },
     {
         "startYear": 1815,
         "title": "Vožd",
-        "name": "Đorđe Petrović",
-        "image": "https://i.ibb.co/2Mtwx43/800px-Kara-or-e-Petrovi-by-Vladimir-Borovikovsky-1816.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "name": "Đorđe Petrović - Karađorđe",
+        "titleCir": "Вожд",
+        "nameCir": "Ђорђе Петровић - Карађорђе",
+        "image": "https://i.ibb.co/zJdLrXC/800px-Kara-or-e-Petrovi-by-Vladimir-Borovikovsky-1816.jpg",
+        "flag": "https://i.ibb.co/wMq3wFB/Grb-Srbije-i-Tribalije-detalj.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -725,13 +900,16 @@
         "startYear": 1817,
         "title": "Knez",
         "name": "Miloš Obrenović",
-        "image": "https://i.ibb.co/hXb6DBx/Milos-Obrenovic-1848.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Милош Обреновић",
+        "image": "https://i.ibb.co/SmJsKJX/Milos-Obrenovic-1848.jpg",
+        "flag": "https://i.ibb.co/fkkrkNg/7knezevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -739,13 +917,16 @@
         "startYear": 1839,
         "title": "Knez",
         "name": "Mihailo Obrenović",
-        "image": "https://i.ibb.co/D45KznC/Mihailo-Obrenovi-III.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Михаило Обреновић",
+        "image": "https://i.ibb.co/N91JWLn/Loza-Nemanjica-Decani-e-3.jpg",
+        "flag": "https://i.ibb.co/fkkrkNg/7knezevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -753,13 +934,16 @@
         "startYear": 1842,
         "title": "Knez",
         "name": "Aleksandar Karađorđević",
-        "image": "https://i.ibb.co/1M8LCkj/Knez-aleksandar-karadjordjevic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Александар Карађорђевић",
+        "image": "https://i.ibb.co/VDBQDXt/Knez-aleksandar-karadjordjevic.jpg",
+        "flag": "https://i.ibb.co/fkkrkNg/7knezevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B_(%D0%BA%D0%BD%D0%B5%D0%B7)",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -767,13 +951,16 @@
         "startYear": 1858,
         "title": "Knez",
         "name": "Miloš Obrenović",
-        "image": "https://i.ibb.co/hXb6DBx/Milos-Obrenovic-1848.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Милош Обреновић",
+        "image": "https://i.ibb.co/SmJsKJX/Milos-Obrenovic-1848.jpg",
+        "flag": "https://i.ibb.co/fkkrkNg/7knezevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -781,13 +968,16 @@
         "startYear": 1860,
         "title": "Knez",
         "name": "Mihailo Obrenović",
-        "image": "https://i.ibb.co/D45KznC/Mihailo-Obrenovi-III.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Михаило Обреновић",
+        "image": "https://i.ibb.co/N91JWLn/Loza-Nemanjica-Decani-e-3.jpg",
+        "flag": "https://i.ibb.co/fkkrkNg/7knezevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -795,13 +985,16 @@
         "startYear": 1868,
         "title": "Knez",
         "name": "Milan Obrenović",
-        "image": "https://i.ibb.co/VM3685J/Kralj-Milan-Obrenovic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Милан Обреновић",
+        "image": "https://i.ibb.co/gr95JNn/Kralj-Milan-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/fkkrkNg/7knezevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "turkey",
-                "name": "Srbija (Otomansko carstvo)"
+                "name": "Srbija (Otomansko carstvo)",
+                "nameCir": "Србија (Отоманско Царство)"
             }
         ]
     },
@@ -809,13 +1002,16 @@
         "startYear": 1877,
         "title": "Knez",
         "name": "Milan Obrenović",
-        "image": "https://i.ibb.co/VM3685J/Kralj-Milan-Obrenovic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Кнез",
+        "nameCir": "Милан Обреновић",
+        "image": "https://i.ibb.co/gr95JNn/Kralj-Milan-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/fkkrkNg/7knezevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -823,13 +1019,16 @@
         "startYear": 1882,
         "title": "Kralj",
         "name": "Milan Obrenović",
-        "image": "https://i.ibb.co/VM3685J/Kralj-Milan-Obrenovic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Милан Обреновић",
+        "image": "https://i.ibb.co/gr95JNn/Kralj-Milan-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/0KBD30p/8kraljevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%B0%D0%BD_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -837,13 +1036,16 @@
         "startYear": 1889,
         "title": "Kralj",
         "name": "Aleksandar I Obrenović",
-        "image": "https://i.ibb.co/r3Vx7Z3/Aleksandar-Obrenovic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Александар I Обреновић",
+        "image": "https://i.ibb.co/wQNvdyT/Aleksandar-Obrenovic.jpg",
+        "flag": "https://i.ibb.co/0KBD30p/8kraljevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9E%D0%B1%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -851,13 +1053,16 @@
         "startYear": 1903,
         "title": "Kralj",
         "name": "Petar I Karađorđević",
-        "image": "https://i.ibb.co/ZTTwKLn/Petar-I-Karadjordjevic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Петар I Карађорђевић",
+        "image": "https://i.ibb.co/HXb8xsT/Petar-I-Karadjordjevic.jpg",
+        "flag": "https://i.ibb.co/0KBD30p/8kraljevina.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -874,17 +1079,21 @@
         "startYear": 1918,
         "title": "Kralj",
         "name": "Petar I Karađorđević",
-        "image": "https://i.ibb.co/ZTTwKLn/Petar-I-Karadjordjevic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Петар I Карађорђевић",
+        "image": "https://i.ibb.co/HXb8xsT/Petar-I-Karadjordjevic.jpg",
+        "flag": "https://i.ibb.co/L5N6Lz5/9kraljevina-Jugoslavija.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Kraljevina Srba, Hrvata i Slovenaca"
+                "name": "Kraljevina Srba, Hrvata i Slovenaca",
+                "nameCir": "Краљевина Срба, Хрвата и Словенаца"
             }
         ]
     },
@@ -892,17 +1101,20 @@
         "startYear": 1921,
         "title": "Kralj",
         "name": "Aleksandar I Karađorđević",
-        "image": "https://i.ibb.co/dJfdq2h/Kralj-aleksandar1.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Александар I Карађорђевић",
+        "image": "https://i.ibb.co/y0sXJSF/Kralj-aleksandar1.jpg",
+        "flag": "https://i.ibb.co/L5N6Lz5/9kraljevina-Jugoslavija.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_I_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
+                "color": "serbiaStrong",
                 "name": "Srbija"
             },
             {
                 "color": "serbia",
-                "name": "Kraljevina Srba, Hrvata i Slovenaca"
+                "name": "Kraljevina Srba, Hrvata i Slovenaca",
+                "nameCir": "Краљевина Срба, Хрвата и Словенаца"
             }
         ]
     },
@@ -910,17 +1122,20 @@
         "startYear": 1934,
         "title": "Kralj",
         "name": "Petar II Karađorđević",
-        "image": "https://i.ibb.co/fds5KP9/Petar-II-Kara-or-evi.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Петар II Карађорђевић",
+        "image": "https://i.ibb.co/XC3pWNy/Petar-II-Kara-or-evi.jpg",
+        "flag": "https://i.ibb.co/L5N6Lz5/9kraljevina-Jugoslavija.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
+                "color": "serbiaStrong",
                 "name": "Srbija"
             },
             {
                 "color": "serbia",
-                "name": "Kraljevina Srba, Hrvata i Slovenaca"
+                "name": "Kraljevina Srba, Hrvata i Slovenaca",
+                "nameCir": "Краљевина Срба, Хрвата и Словенаца"
             }
         ]
     },
@@ -928,13 +1143,16 @@
         "startYear": 1941,
         "title": "Kralj",
         "name": "Petar II Karađorđević",
-        "image": "https://i.ibb.co/fds5KP9/Petar-II-Kara-or-evi.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Петар II Карађорђевић",
+        "image": "https://i.ibb.co/XC3pWNy/Petar-II-Kara-or-evi.jpg",
+        "flag": "https://i.ibb.co/F64Xfhb/10pod-Nemackom.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "germany",
-                "name": "Srbija (Treći Rajh)"
+                "name": "Srbija (Treći Rajh)",
+                "nameCir": "Србија (Трећи Рајх)"
             }
         ]
     },
@@ -942,13 +1160,16 @@
         "startYear": 1944,
         "title": "Kralj",
         "name": "Petar II Karađorđević",
-        "image": "https://i.ibb.co/fds5KP9/Petar-II-Kara-or-evi.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Краљ",
+        "nameCir": "Петар II Карађорђевић",
+        "image": "https://i.ibb.co/XC3pWNy/Petar-II-Kara-or-evi.jpg",
+        "flag": "https://i.ibb.co/F64Xfhb/10pod-Nemackom.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_II_%D0%9A%D0%B0%D1%80%D0%B0%D1%92%D0%BE%D1%80%D1%92%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -956,17 +1177,21 @@
         "startYear": 1945,
         "title": "Predsednik Predsedništva Ustavotvorne skupštine FNRJ",
         "name": "Ivan Ribar",
-        "image": "https://i.ibb.co/8rmVKnG/633px-Ivan-Ribar-1.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник Председништва Уставотворне скупштине СФРЈ",
+        "nameCir": "Иван Рибар",
+        "image": "https://i.ibb.co/q0S5QW9/633px-Ivan-Ribar-1.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%A0%D0%B8%D0%B1%D0%B0%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -974,17 +1199,21 @@
         "startYear": 1953,
         "title": "Predsednik",
         "name": "Josip Broz Tito",
-        "image": "https://i.ibb.co/0h7JxMF/Josip-Broz-Tito-uniform-portrait.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Јосип Броз Тито",
+        "image": "https://i.ibb.co/chbP1dD/Josip-Broz-Tito-uniform-portrait.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D1%81%D0%B8%D0%BF_%D0%91%D1%80%D0%BE%D0%B7_%D0%A2%D0%B8%D1%82%D0%BE",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -992,17 +1221,21 @@
         "startYear": 1953,
         "title": "Predsednik",
         "name": "Josip Broz Tito",
-        "image": "https://i.ibb.co/0h7JxMF/Josip-Broz-Tito-uniform-portrait.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Јосип Броз Тито",
+        "image": "https://i.ibb.co/chbP1dD/Josip-Broz-Tito-uniform-portrait.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%88%D0%BE%D1%81%D0%B8%D0%BF_%D0%91%D1%80%D0%BE%D0%B7_%D0%A2%D0%B8%D1%82%D0%BE",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1010,17 +1243,21 @@
         "startYear": 1980,
         "title": "Predsednik",
         "name": "Lazar Koliševski",
-        "image": "https://i.ibb.co/d4XnRSs/Lazar-Koli-evski-foto.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Лазар Колишевски",
+        "image": "https://i.ibb.co/v4StKFX/Lazar-Koli-evski-foto.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9A%D0%BE%D0%BB%D0%B8%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1028,17 +1265,21 @@
         "startYear": 1981,
         "title": "Predsednik",
         "name": "Cvijetin Mijatović",
-        "image": "https://i.ibb.co/XZFHh8J/Mijatovic-Cvijetin.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Цвијетин Мијатовић",
+        "image": "https://i.ibb.co/B3cLT48/Mijatovic-Cvijetin.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B8%D1%98%D0%B5%D1%82%D0%B8%D0%BD_%D0%9C%D0%B8%D1%98%D0%B0%D1%82%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1046,17 +1287,21 @@
         "startYear": 1982,
         "title": "Predsednik",
         "name": "Sergej Krajger",
-        "image": "https://i.ibb.co/tJMMH4v/160px-sergej-kraigher-large-1.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Сергеј Крајгер",
+        "image": "https://i.ibb.co/7CwH0cF/160px-sergej-kraigher-large-1.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%98_%D0%9A%D1%80%D0%B0%D1%98%D0%B3%D0%B5%D1%80",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1064,17 +1309,21 @@
         "startYear": 1983,
         "title": "Predsednik",
         "name": "Petar Stambolić",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Petar_Stamboli%C4%87_1958.jpg/800px-Petar_Stamboli%C4%87_1958.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Петар Стамболић",
+        "image": "https://i.ibb.co/XssZVSj/800px-Petar-Stamboli-1958.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B0%D1%80_%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D0%BE%D0%BB%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1082,17 +1331,21 @@
         "startYear": 1984,
         "title": "Predsednik",
         "name": "Mika Špiljak",
-        "image": "https://i.ibb.co/M82rVZG/Mika-piljak.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Мика Шпиљак",
+        "image": "https://i.ibb.co/FzMBjwt/Mika-piljak.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%B0_%D0%A8%D0%BF%D0%B8%D1%99%D0%B0%D0%BA",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1100,17 +1353,21 @@
         "startYear": 1985,
         "title": "Predsednik",
         "name": "Veselin Đuranović",
-        "image": "https://i.ibb.co/pPcTm8w/Veselin-Djuranovic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Веселин Ђурановић",
+        "image": "https://i.ibb.co/0rzz26n/Veselin-Djuranovic.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%B8%D0%BD_%D0%82%D1%83%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1118,17 +1375,21 @@
         "startYear": 1986,
         "title": "Predsednik",
         "name": "Radovan Vlajković",
-        "image": "https://i.ibb.co/vkGWVzV/Radovan-Vlajkovic.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Радован Влајковић",
+        "image": "https://i.ibb.co/t3Wb82g/Radovan-Vlajkovic.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD_%D0%92%D0%BB%D0%B0%D1%98%D0%BA%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1136,17 +1397,21 @@
         "startYear": 1987,
         "title": "Predsednik",
         "name": "Sinan Hasani",
-        "image": "https://i.ibb.co/jwVgfhY/Sinan-Hasani.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Синан Хасани",
+        "image": "https://i.ibb.co/rFYHyWC/Sinan-Hasani.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B0%D0%BD_%D0%A5%D0%B0%D1%81%D0%B0%D0%BD%D0%B8",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1154,17 +1419,21 @@
         "startYear": 1988,
         "title": "Predsednik",
         "name": "Lazar Mojsov",
-        "image": "https://i.ibb.co/XFBnqyw/Lazar-Mojsov.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Лазар Мојсов",
+        "image": "https://i.ibb.co/nPJ7VdF/Lazar-Mojsov.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D0%B0%D1%80_%D0%9C%D0%BE%D1%98%D1%81%D0%BE%D0%B2",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1172,17 +1441,21 @@
         "startYear": 1989,
         "title": "Predsednik",
         "name": "Raif Dizdarević",
-        "image": "https://i.ibb.co/rfmZxgb/800px-Raif-Dizdarevi-politi-ar.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Раиф Диздаревић",
+        "image": "https://i.ibb.co/HNT3wmL/800px-Raif-Dizdarevi-politi-ar.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B8%D1%84_%D0%94%D0%B8%D0%B7%D0%B4%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1190,17 +1463,21 @@
         "startYear": 1990,
         "title": "Predsednik",
         "name": "Borisav Jović",
-        "image": "https://i.ibb.co/LvSwdbx/800px-Borisav-Jovi.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Борисав Јовић",
+        "image": "https://i.ibb.co/W08dNDR/800px-Borisav-Jovi.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%B0%D0%B2_%D0%88%D0%BE%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1208,17 +1485,21 @@
         "startYear": 1991,
         "title": "Predsednik",
         "name": "Stjepan Mesić",
-        "image": "https://i.ibb.co/Pj0qHS0/Stjepan-Mesic-ehem-Prsident-der-Republik-Kroatien-Foto-http-www-stephan-roehl-de-Stephan-Rhl.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Стјепан Месић",
+        "image": "https://i.ibb.co/mcSDfgR/Stjepan-Mesic-ehem-Prsident-der-Republik-Kroatien-Foto-http-www-stephan-roehl-de-Stephan-Rhl.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D1%98%D0%B5%D0%BF%D0%B0%D0%BD_%D0%9C%D0%B5%D1%81%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1226,17 +1507,21 @@
         "startYear": 1992,
         "title": "Predsednik",
         "name": "Branko Kostić",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Branko_Kosti%C4%87.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Бранко Костић",
+        "image": "https://i.ibb.co/vzkt8Dt/Branko-Kosti.jpg",
+        "flag": "https://i.ibb.co/KmRqxLd/11komunisti.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%BA%D0%BE_%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1244,17 +1529,21 @@
         "startYear": 1993,
         "title": "Predsednik",
         "name": "Slobodan Milošević",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Branko_Kosti%C4%87.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Слободан Милошевић",
+        "image": "https://i.ibb.co/PNsZjgk/milosevic.jpg",
+        "flag": "https://i.ibb.co/7bbR95Z/12scg.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0%D0%BD_%D0%9C%D0%B8%D0%BB%D0%BE%D1%88%D0%B5%D0%B2%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1262,17 +1551,21 @@
         "startYear": 2000,
         "title": "Predsednik",
         "name": "Vojislav Koštunica",
-        "image": "https://i.ibb.co/S6C5yNN/Vojislav-Kostunica-EPP-Congress-Rome-2006-68-cropped.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Војислав Коштуница",
+        "image": "https://i.ibb.co/MnHrbBw/Vojislav-Kostunica-EPP-Congress-Rome-2006-68-cropped.jpg",
+        "flag": "https://i.ibb.co/7bbR95Z/12scg.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%92%D0%BE%D1%98%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9A%D0%BE%D1%88%D1%82%D1%83%D0%BD%D0%B8%D1%86%D0%B0",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Jugoslavija"
+                "name": "Jugoslavija",
+                "nameCir": "Југославија"
             }
         ]
     },
@@ -1280,17 +1573,21 @@
         "startYear": 2004,
         "title": "Predsednik",
         "name": "Boris Tadić",
-        "image": "https://i.ibb.co/3k2ZBMZ/Boris-Tadic-2010-Cropped.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Борис Тадић",
+        "image": "https://i.ibb.co/tZn8xDn/KOSOR-TADIC-PAHORFoto-Stanko-Gruden-STA.jpg",
+        "flag": "https://i.ibb.co/dbnQtNF/13rs.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D0%B0%D0%B4%D0%B8%D1%9B",
         "states": [
             {
-                "color": "rgba(255, 0, 0, 0.75)",
-                "name": "Srbija"
+                "color": "serbiaStrong",
+                "name": "Srbija",
+                "nameCir": "Србија"
             },
             {
                 "color": "serbia",
-                "name": "Srbija i Crna Gora"
+                "name": "Srbija i Crna Gora",
+                "nameCir": "Србија и Црна Гора"
             }
         ]
     },
@@ -1298,13 +1595,16 @@
         "startYear": 2006,
         "title": "Predsednik",
         "name": "Boris Tadić",
-        "image": "https://i.ibb.co/3k2ZBMZ/Boris-Tadic-2010-Cropped.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Борис Тадић",
+        "image": "https://i.ibb.co/tZn8xDn/KOSOR-TADIC-PAHORFoto-Stanko-Gruden-STA.jpg",
+        "flag": "https://i.ibb.co/dbnQtNF/13rs.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%A2%D0%B0%D0%B4%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -1312,13 +1612,16 @@
         "startYear": 2012,
         "title": "Predsednik",
         "name": "Tomislav Nikolić",
+        "titleCir": "Председник",
+        "nameCir": "Томислав Николић",
         "image": "https://i.ibb.co/3k2ZBMZ/Boris-Tadic-2010-Cropped.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "flag": "https://i.ibb.co/qWj7Ch7/15rs.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B8%D1%81%D0%BB%D0%B0%D0%B2_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     },
@@ -1326,13 +1629,16 @@
         "startYear": 2017,
         "title": "Predsednik",
         "name": "Aleksandar Vučić",
-        "image": "https://i.ibb.co/dfWb3ns/800px-Aleksandar-Vu-i-Secretary-Pompeo-Hosts-a-Working-Lunch-With-Serbian-President-Vucic-4858627954.jpg",
-        "flag": "https://i.ibb.co/H4zdZhw/Srpska-zastava.png",
+        "titleCir": "Председник",
+        "nameCir": "Александар Вучић",
+        "image": "https://i.ibb.co/BGZ04NC/800px-Aleksandar-Vu-i-Secretary-Pompeo-Hosts-a-Working-Lunch-With-Serbian-President-Vucic-4858627954.jpg",
+        "flag": "https://i.ibb.co/qWj7Ch7/15rs.png",
         "wiki": "https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%92%D1%83%D1%87%D0%B8%D1%9B",
         "states": [
             {
                 "color": "serbia",
-                "name": "Srbija"
+                "name": "Srbija",
+                "nameCir": "Србија"
             }
         ]
     }

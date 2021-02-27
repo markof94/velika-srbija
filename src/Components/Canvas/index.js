@@ -3,7 +3,6 @@ import styled from 'styled-components'
 import draw from './draw';
 import preload from './preload'
 import setup from './setup';
-import { touchStarted, keyPressed, touchEnded, mousePressed, mouseReleased } from './controls'
 import Spinner from '../Spinner'
 import p5 from 'p5/lib/p5'
 
@@ -32,17 +31,17 @@ const Loader = styled.div`
     color: white;
 `;
 
+const windowResized = (game) => {
+    game.resizeCanvas(window.innerWidth, window.innerHeight);
+}
+
 const sketch = p => {
     p.draw = null;
 
     p.preload = () => { preload(p) }
     p.setup = () => { setup(p) }
     p.draw = () => { draw(p) }
-    //p.touchStarted = () => { touchStarted(p) }
-    //p.touchEnded = () => { touchEnded(p) }
-    //p.mousePressed = () => { mousePressed(p) }
-    //p.mouseReleased = () => { mouseReleased(p) }
-    //p.keyPressed = () => { keyPressed(p) }
+    p.windowResized = () => { windowResized(p) }
 }
 
 let p = null;
@@ -56,6 +55,7 @@ const removeCanvas = () => {
     if (p) {
         p.remove();
         p = window.setup = window.draw = null;
+        console.log('as')
     } else {
         const canv = document.querySelector('canvas');
         canv && canv.remove();
