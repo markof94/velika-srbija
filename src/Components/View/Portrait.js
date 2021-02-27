@@ -9,7 +9,7 @@ const Container = styled.div`
     pointer-events: auto;
     border-radius: 4px;
 
-    background-color: #F1F1F1;
+    background-color: rgba(230, 230, 230, 0.75);
     
     -webkit-tap-highlight-color: transparent;
     -webkit-filter: drop-shadow(0 3px 6px rgba(0,0,0,0.23));
@@ -38,19 +38,23 @@ const Portrait = styled.img`
 
 const SeeMoreLabel = styled.div`
     position: absolute;
-    right: 4px;
+    left: 4px;
     bottom: 4px;
     
-    background: rgba(0, 0, 0, 0.75);
+    background: rgba(255, 255, 255, 0.7);
     border-radius: 4px;
-    color: #FFFFFF;
+    color: #422f26;
     padding: 2px 8px;
     text-decoration: underline;
 
+    transition: all 0.2s ease;
+
     user-select: none;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 
     svg{
         font-size: 24px;
+        transition: all 0.2s ease;
     }
 
     @media(max-width: 720px){
@@ -58,6 +62,27 @@ const SeeMoreLabel = styled.div`
             font-size: 18px;
         }
     }
+
+    &:hover{
+        background: rgba(255, 255, 255, 1);
+    }
+
+    ${props => !props.hasImage && `
+        left: 50%;
+        bottom: 50%;
+
+        transform: translate(-50%, 50%);
+
+        svg{
+            font-size: 44px;
+        }
+
+        @media(max-width: 720px){
+            svg{
+                font-size: 28px;
+            }
+        }
+    `}
 `;
 
 const Component = (props) => {
@@ -80,7 +105,9 @@ const Component = (props) => {
                 />
             }
             {hasWiki &&
-                <SeeMoreLabel>
+                <SeeMoreLabel
+                    hasImage={hasImage}
+                >
                     <MenuBookIcon />
                 </SeeMoreLabel>
             }
