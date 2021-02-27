@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/velika-srbija/static/css/main.ad070826.chunk.css",
-    "main.js": "/velika-srbija/static/js/main.764cc156.chunk.js",
-    "main.js.map": "/velika-srbija/static/js/main.764cc156.chunk.js.map",
+    "main.js": "/velika-srbija/static/js/main.edcbaa43.chunk.js",
+    "main.js.map": "/velika-srbija/static/js/main.edcbaa43.chunk.js.map",
     "runtime-main.js": "/velika-srbija/static/js/runtime-main.480c20b2.js",
     "runtime-main.js.map": "/velika-srbija/static/js/runtime-main.480c20b2.js.map",
     "static/js/2.ab200a90.chunk.js": "/velika-srbija/static/js/2.ab200a90.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.480c20b2.js",
     "static/js/2.ab200a90.chunk.js",
     "static/css/main.ad070826.chunk.css",
-    "static/js/main.764cc156.chunk.js"
+    "static/js/main.edcbaa43.chunk.js"
   ]
 }
