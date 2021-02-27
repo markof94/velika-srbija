@@ -6,10 +6,9 @@ import Modal from './Modal'
 import Canvas from './Canvas'
 
 const Container = styled.div`
-    position: relative;
     width: 100%;
     max-width: 100vw;
-    height: 100vh;
+    height: 100%;
     margin: 0 auto;
     
     display: flex;
@@ -23,6 +22,8 @@ const Wrapper = styled.div`
     padding-top: 24px;
     background: linear-gradient(0, rgba(0, 0, 0, 0.6) 10%, rgba(0, 0, 0, 0.35) 75%, rgba(0, 0, 0, 0) 100%);
     width: 100%;
+    position: absolute;
+    bottom: 0;
 `;
 const SubWrapper = styled.div`
     max-width: 100vmin;
@@ -61,6 +62,7 @@ const Disclaimer = styled.div`
     padding: 0 24px;
     width: 100vmin;
     text-align: center;
+    user-select: none;
 
     
     color: rgba(255, 255, 255, 0.25);
@@ -69,6 +71,26 @@ const Disclaimer = styled.div`
 
     @media(max-width: 720px){
         font-size: 11px;
+    }
+`;
+
+
+const Year = styled.div`
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #FFFFFF;
+    pointer-events: none;
+    user-select: none;
+
+    font-size: 72px;
+    font-weight: normal;
+
+    -webkit-filter: drop-shadow(0 3px 2px rgba(0,0,0,0.23));
+
+    @media(max-width: 720px){
+        font-size: 60px;
     }
 `;
 
@@ -115,8 +137,15 @@ const Main = () => {
                 {alphabet === 'latinica' ? "Ћирилица" : "Latinica"}
             </AlphabetSelect>
 
+            <Year>
+                {`${year}.`}
+            </Year>
+
             <Disclaimer>
-                {`Prikazane granice su samo informativnog karaktera i one mogu odstupati od zvanično prihvaćenih granica.`}
+                {alphabet === 'cirilica' ?
+                    `Приказане границе су само информативног карактера и могу одступати од званично прихваћених граница.`
+                    :
+                    `Prikazane granice su samo informativnog karaktera i mogu odstupati od zvanično prihvaćenih granica.`}
             </Disclaimer>
 
             {modalSrc !== "" &&

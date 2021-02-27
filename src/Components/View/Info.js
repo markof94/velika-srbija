@@ -43,15 +43,6 @@ const Title = styled(Name)`
     }
 `;
 
-const Year = styled(Name)`
-    font-size: 32px;
-    font-weight: normal;
-
-    @media(max-width: 720px){
-        font-size: 26px;
-    }
-`;
-
 const Section = styled.div`
     display: flex;
 `;
@@ -108,11 +99,6 @@ const Component = (props) => {
                                 {alphabet === "cirilica" && entry.nameCir ? entry.nameCir : entry.name}
                             </Name>
                         </div>
-                        {false &&
-                            <Year>
-                                {`${year}.`}
-                            </Year>
-                        }
                     </SubSection>
                 </Section>
 
